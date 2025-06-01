@@ -1,0 +1,16 @@
+[
+  {
+    "result": 63.91818472355385,
+    "amount": 1000000.0,
+    "targetCurrency": "USD",
+    "sourceCurrency": "IDR",
+    "timestamp": 1748250434440
+  },
+  {
+    "result": 63.91818472355385,
+    "amount": 1000000.0,
+    "sourceCurrency": "IDR",
+    "targetCurrency": "USD",
+    "timestamp": 1748440729579
+  }
+]

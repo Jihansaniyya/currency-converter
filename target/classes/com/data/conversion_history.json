@@ -1,0 +1,37 @@
+[
+  {
+    "timestamp": 1716120025123,
+    "sourceCurrency": "IDR",
+    "targetCurrency": "USD",
+    "amount": 1000000.0,
+    "result": 63.918824546500096
+  },
+  {
+    "timestamp": 1716120045678,
+    "sourceCurrency": "USD",
+    "targetCurrency": "IDR",
+    "amount": 100.0,
+    "result": 1564500.0
+  },
+  {
+    "timestamp": 1716120098765,
+    "sourceCurrency": "IDR",
+    "targetCurrency": "EUR",
+    "amount": 500000.0,
+    "result": 29.44454139982743
+  },
+  {
+    "timestamp": 1716120154321,
+    "sourceCurrency": "EUR",
+    "targetCurrency": "USD",
+    "amount": 50.0,
+    "result": 54.347826086956516
+  },
+  {
+    "timestamp": 1716120198765,
+    "sourceCurrency": "USD",
+    "targetCurrency": "EUR",
+    "amount": 75.0,
+    "result": 69.0
+  }
+]
